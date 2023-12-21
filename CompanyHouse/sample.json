@@ -1,0 +1,32 @@
+{
+    "primaryTopic": {
+        "CompanyName": "BRAJAN LTD",
+        "CompanyNumber": "14077511",
+        "RegAddress": {
+            "AddressLine1": "100 BALLENS ROAD",
+            "PostTown": "CHATHAM",
+            "Country": "ENGLAND",
+            "Postcode": "ME5 8PD"
+        },
+        "CompanyCategory": "Private Limited Company",
+        "CompanyStatus": "Active",
+        "CountryOfOrigin": "United Kingdom",
+        "IncorporationDate": "29/04/2022",
+        "Accounts": {
+            "AccountRefDay": "30",
+            "AccountRefMonth": "04",
+            "NextDueDate": "29/01/2024",
+            "LastMadeUpDate": null,
+            "AccountCategory": "NO ACCOUNTS FILED"
+        },
+        "Returns": {
+            "NextDueDate": "02/05/2024",
+            "LastMadeUpDate": "18/04/2023"
+        },
+        "SICCodes": {
+            "SicText": [
+                "47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+            ]
+        }
+    }
+}

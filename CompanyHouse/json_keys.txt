@@ -1,0 +1,23 @@
+primaryTopic
+        CompanyName
+        CompanyNumber
+        RegAddress
+            AddressLine1
+            PostTown
+            Country
+            Postcode
+	CompanyCategory
+        CompanyStatus
+        CountryOfOrigin
+        IncorporationDate
+        Accounts
+            AccountRefDay
+            AccountRefMonth
+            NextDueDate
+            LastMadeUpDate
+            AccountCategory
+        Returns
+            NextDueDate
+            LastMadeUpDate
+        SICCodes
+            SicText
