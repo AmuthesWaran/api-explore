@@ -1,0 +1,40 @@
+{
+    "primaryTopic": {
+        "CompanyName": "ABCD LTD",
+        "CompanyNumber": "08973777",
+        "RegAddress": {
+            "AddressLine1": "2ND FLOOR QUAYSIDE TOWER",
+            "AddressLine2": "BROAD STREET",
+            "PostTown": "BIRMINGHAM",
+            "Country": "UNITED KINGDOM",
+            "Postcode": "B1 2HF"
+        },
+        "CompanyCategory": "Private Limited Company",
+        "CompanyStatus": "Dissolved",
+        "CountryOfOrigin": "United Kingdom",
+        "DissolutionDate": "11/02/2020",
+        "IncorporationDate": "02/04/2014",
+        "PreviousNames": [
+            {
+                "CONDate": "31/07/2018",
+                "CompanyName": "GRAHAM SIFFLET ACCOUNTANTS LTD"
+            }
+        ],
+        "Accounts": {
+            "AccountRefDay": "31",
+            "AccountRefMonth": "08",
+            "NextDueDate": null,
+            "LastMadeUpDate": "31/08/2018",
+            "AccountCategory": "MICRO"
+        },
+        "Returns": {
+            "NextDueDate": null,
+            "LastMadeUpDate": null
+        },
+        "SICCodes": {
+            "SicText": [
+                "69201 - Accounting and auditing activities"
+            ]
+        }
+    }
+}
