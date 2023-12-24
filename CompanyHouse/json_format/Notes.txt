@@ -1,0 +1,99 @@
+json_keys
+
+Common 
+
+primaryTopic
+        CompanyName
+        CompanyNumber
+        RegAddress
+            AddressLine1
+            PostTown
+            Country
+            Postcode
+	    CompanyCategory
+        CompanyStatus
+        CountryOfOrigin
+        IncorporationDate
+        Accounts
+            AccountRefDay
+            AccountRefMonth
+            NextDueDate
+            LastMadeUpDate
+            AccountCategory
+        Returns
+            NextDueDate
+            LastMadeUpDate
+        SICCodes
+            SicText []
+-------------------------------------------------------------------------------------------------------------
+Entity with Previous Names
+02152071
+
+primaryTopic
+        CompanyName
+        CompanyNumber
+        RegAddress
+            AddressLine1
+            AddressLine2
+            PostTown
+            County
+            Postcode
+        CompanyCategory
+        CompanyStatus
+        CountryOfOrigin
+        IncorporationDate
+        PreviousNames [
+                CONDate
+                CompanyName
+        ]
+        Accounts
+            AccountRefDay
+            AccountRefMonth
+            NextDueDate
+            LastMadeUpDate
+            AccountCategory
+        Returns
+            NextDueDate
+            LastMadeUpDate
+        SICCodes
+            SicText []
+-------------------------------------------------------------------------------------------------------------
+Dissolved Entity
+11484357
+
+    primaryTopic
+        CompanyName
+        CompanyNumber
+        RegAddress
+            AddressLine1
+            AddressLine2
+            PostTown
+            County
+            Country
+            Postcode
+        CompanyCategory
+        CompanyStatus
+        CountryOfOrigin
+        DissolutionDate
+        IncorporationDate
+        Accounts
+            AccountRefDay
+            AccountRefMonth
+            NextDueDate
+            LastMadeUpDate
+            AccountCategory
+        Returns
+            NextDueDate
+            LastMadeUpDate
+        SICCodes
+            SicText []
+
+-------------------------------------------------------------------------------------------------------------
+Alternate links
+
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.rdf" type="application/rdf+xml">
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.json" type="application/json">
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.xml" type="application/xml">
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.html" type="text/html">
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.csv" type="text/csv">
+<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/12345678.yaml" type="application/yaml">
